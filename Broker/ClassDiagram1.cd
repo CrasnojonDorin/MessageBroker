@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Broker.Subscriber">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAgAAAAQIAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Subscriber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broker.Publisher">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAgAAAQAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broker.BrokerSocket">
+    <Position X="4.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgAAACAAAAAAAAAAAAAAAAAAAAAAAgAAQAAgAAA=</HashCode>
+      <FileName>BrokerSocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broker.ConnectionsStorage">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAACAACAAAAAAAAAAABAA=</HashCode>
+      <FileName>ConnectionsStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broker.PayloadStorage">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAA=</HashCode>
+      <FileName>PayloadStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broker.Worker">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
